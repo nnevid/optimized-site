@@ -676,10 +676,9 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
+p,q {
+    font-size: 1.6rem;
 }
-
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
