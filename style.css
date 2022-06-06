@@ -657,7 +657,10 @@ a {
 .container {
     max-width: 1000px;
 }
-
+.container-bis {
+   max-width: 600px;
+   margin:auto;
+}
 .hero-bloc-text {
     font-size: 38px;
 }
