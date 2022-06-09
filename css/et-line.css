@@ -108,7 +108,7 @@
 .et-icon-wallet,
 .et-icon-wine {
     font-family: et-line;
-    speak: none;
+    speak-as: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -116,7 +116,7 @@
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    display: inline-block
+    display: inline-block;
 }
 
 .et-icon-mobile:before {
