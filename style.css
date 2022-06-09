@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -703,7 +703,7 @@ p,q {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 30px auto 30px auto;
 }
 
 h2 {
