@@ -150,7 +150,7 @@ li{list-style: none;}
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(0, 0, 0, .7);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -652,7 +652,7 @@ label,
     font-weight: 400;
     color: #575757!important;
 }
-a{color:white;}
+a{color:rgba(0, 0, 0, .8)}
 
 .container {
     max-width: 1000px;
