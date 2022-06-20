@@ -650,9 +650,9 @@ label,
 .btn {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #232323!important;
 }
-a{color:rgba(0, 0, 0, .8)}
+a{color:#232323;}
 
 .container {
     max-width: 1000px;
